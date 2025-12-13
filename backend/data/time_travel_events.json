@@ -1,0 +1,59 @@
+{
+  "gfc_2008": [
+    {
+      "month": "2007-08",
+      "marketCondition": "US housing market shows cracks; credit spreads start to widen.",
+      "headline": "Subprime mortgage defaults surge, rattling financial stocks."
+    },
+    {
+      "month": "2008-03",
+      "marketCondition": "Liquidity dries up as major banks seek emergency funding.",
+      "headline": "Bear Stearns receives last-minute rescue to avert collapse."
+    },
+    {
+      "month": "2008-09",
+      "marketCondition": "Markets plunge in panic after Lehman bankruptcy.",
+      "headline": "Global financial contagion escalates; credit markets freeze."
+    },
+    {
+      "month": "2009-03",
+      "marketCondition": "Stabilization begins amid coordinated policy stimulus.",
+      "headline": "Governments roll out bailout packages; risk appetite cautiously returns."
+    }
+  ],
+  "covid_2020": [
+    {
+      "month": "2020-03",
+      "marketCondition": "Worldwide lockdowns spark record-breaking volatility.",
+      "headline": "Dow posts largest single-day drops as pandemic declared."
+    },
+    {
+      "month": "2020-06",
+      "marketCondition": "Stay-at-home economy lifts technology leaders.",
+      "headline": "NASDAQ closes at record highs despite economic contraction."
+    },
+    {
+      "month": "2021-03",
+      "marketCondition": "Vaccine rollouts drive reopening optimism.",
+      "headline": "Travel and hospitality stocks rally on accelerating immunizations."
+    }
+  ],
+  "inflation_2022": [
+    {
+      "month": "2022-03",
+      "marketCondition": "Commodity shocks send energy prices soaring.",
+      "headline": "Russia–Ukraine conflict disrupts global supply chains."
+    },
+    {
+      "month": "2022-06",
+      "marketCondition": "Central banks enact aggressive rate hikes to curb inflation.",
+      "headline": "Fed delivers 75 bps hike; markets brace for tighter liquidity."
+    },
+    {
+      "month": "2022-12",
+      "marketCondition": "Inflation cools marginally; growth fears linger.",
+      "headline": "Markets stabilize as rate path slows and energy prices retreat."
+    }
+  ]
+}
+
