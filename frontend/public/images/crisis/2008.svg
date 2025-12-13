@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180">
+  <defs>
+    <linearGradient id="gradient2008" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f4c81" />
+      <stop offset="100%" stop-color="#1e88e5" />
+    </linearGradient>
+    <linearGradient id="lineGradient" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff6b6b" />
+      <stop offset="100%" stop-color="#f9a825" />
+    </linearGradient>
+  </defs>
+  <rect width="320" height="180" rx="18" fill="url(#gradient2008)" />
+  <g opacity="0.2">
+    <path d="M0 140 L40 120 L80 136 L120 90 L160 110 L200 70 L240 84 L280 60 L320 66" stroke="#ffffff" stroke-width="18" fill="none" stroke-linecap="round" />
+  </g>
+  <path d="M20 140 L70 118 L110 132 L150 78 L190 102 L230 58 L270 74 L300 50" stroke="url(#lineGradient)" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="24" y="52" font-family="'Segoe UI',sans-serif" font-size="24" fill="#ffffff" font-weight="600">2008 Crisis</text>
+  <text x="24" y="78" font-family="'Segoe UI',sans-serif" font-size="14" fill="#e3f2fd">Global Financial Shock</text>
+</svg>
+

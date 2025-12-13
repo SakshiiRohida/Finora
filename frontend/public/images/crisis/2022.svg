@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180">
+  <defs>
+    <linearGradient id="inflationBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d47a1" />
+      <stop offset="100%" stop-color="#64b5f6" />
+    </linearGradient>
+    <linearGradient id="inflationLine" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#81c784" />
+      <stop offset="100%" stop-color="#ffb74d" />
+    </linearGradient>
+  </defs>
+  <rect width="320" height="180" rx="18" fill="url(#inflationBg)" />
+  <g opacity="0.25">
+    <path d="M40 70 L70 40 L100 68 L130 34 L160 64 L190 30 L220 56 L250 24 L280 48" stroke="#ffffff" stroke-width="6" fill="none" stroke-linecap="round" />
+  </g>
+  <path d="M20 138 C48 106 88 128 116 96 C144 64 182 120 210 88 C238 56 268 78 300 52" stroke="url(#inflationLine)" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="24" y="52" font-family="'Segoe UI',sans-serif" font-size="24" fill="#ffffff" font-weight="600">2022 Inflation</text>
+  <text x="24" y="78" font-family="'Segoe UI',sans-serif" font-size="14" fill="#e3f2fd">Energy Shock &amp; Rate Hikes</text>
+</svg>
+
